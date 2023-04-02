@@ -753,7 +753,7 @@ video {
 }
 
 .bg-\[url\(\'\/img\/bg-coffee\.png\'\)\] {
-  background-image: url("../img/bg-coff``ee.png");
+  background-image: url("../img/bg-coffee.png");
 }
 
 .bg-cover {
